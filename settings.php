@@ -4,11 +4,11 @@
 
 /*
 Plugin Name: Add Link to Copied Text
-Plugin URI: https://www.astech.club/wordpress-javascript-jquery-plugins/add-link-copied-text/
+Plugin URI: https://www.astech.solutions/wordpress-javascript-jquery-plugins/add-link-copied-text/
 Description: Add a link to your website/page whenever someone copies text from your website. Alternatively, protect visitors from stealing your content.
 Version: 2.0
 Author: AS Tech Solutions
-Author URI: https://www.astech.club/
+Author URI: https://www.astech.solutions/
 Text Domain: add-link-copied-text
 Domain Path: /languages
 License: GPLv2 or later

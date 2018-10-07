@@ -13,7 +13,7 @@ Add a link to the page/website when users copy and paste text from your website 
 
 Add Link to Copied Text plugin is capable to add a link to the page whenever a user copies content from your website. Alternatively, you can either stop the visitor from copying your content or replace copied text with your custom text.
 
-You can [visit documentation page](https://www.astech.club/wordpress-javascript-jquery-plugins/add-link-copied-text/) to check available options with this powerful plugin. A [GitHub repo](https://github.com/as-tx/add-link-copied-text) is also available for contribution.
+You can [visit documentation page](https://www.astech.solutions/wordpress-javascript-jquery-plugins/add-link-copied-text/) to check available options with this powerful plugin. A [GitHub repo](https://github.com/as-tx/add-link-copied-text) is also available for contribution.
 
 We have tested this plugin with all major browsers including Chrome, Firefox, Opera. However, please know, the plugin is made on a best-efforts basis. Submit a support request first in case of any trouble rather than leaving a negative review.
 
@@ -50,7 +50,7 @@ e.g.
 Options are available under 'Settings' => 'Add Link' menu in your Dashboard.
 
 = Where to find more information related to options? =
-Options are self-explanatory and you can [visit documentation page](https://www.astech.club/wordpress-javascript-jquery-plugins/add-link-copied-text/) for more information
+Options are self-explanatory and you can [visit documentation page](https://www.astech.solutions/wordpress-javascript-jquery-plugins/add-link-copied-text/) for more information
 
 = Does this plugin work with Internet Explorer? =
 We have tested this plugin with Internet Explorer versions 7, 8, 9, 10, 11 and other browsers like Chrome, Opera, Firefox as well
